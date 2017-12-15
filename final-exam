@@ -12,7 +12,7 @@ typedef struct {
 }Student;
 
 
-const char *stitles[MAX_TIME] = { "전반","후반" };
+const char *stitles[MAX_TIME] = { "전반 발언","후반 " };
 
 #define MAX_STUDENT 30
 
